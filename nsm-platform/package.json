@@ -1,0 +1,10 @@
+{
+  "name": "nsm-platform",
+  "version": "0.0.0",
+  "description": "Shared types and logic for the NodeServerManager",
+  "main": "src/index.ts",
+  "type": "module",
+  "scripts": {
+    "pack": "npm pack --pack-destination ./artifacts"
+  }
+}
