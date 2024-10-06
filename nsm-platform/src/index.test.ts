@@ -5,6 +5,5 @@ import {main} from './index';
 describe('Main Tests', () => {
     it('should run without crashing', async () => {
         await main();
-        expect(true).toBe(false);
     });
 });
