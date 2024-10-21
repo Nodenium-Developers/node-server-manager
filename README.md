@@ -1,7 +1,7 @@
 # Node Server Manager
 
 ## Description
-[Product Requirements](documentation/PRD.md)
+Product documentation on Google Docs
 
 ## Setup
 [Setup.md](documentation/Setup.md)
